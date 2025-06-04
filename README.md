@@ -14,4 +14,4 @@ This repository contains examples of using MongoDB Atlas in Python projects with
 - Django / Aiogram
 
 ## License
-MIT
+MIT License
